@@ -1,0 +1,28 @@
+label{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .heading{
+      font-family: comic sans ms;
+  }
+  .half_div{
+      background-color: #95A3A4;
+      color: white;
+  }
+  button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  body
+{
+    font-family: comic sans ms;
+      background: #E2E8DD;
+}
